@@ -1,0 +1,48 @@
+91, David Gaudu, Groupama-FDJ, 35.78292687480409
+2, George Bennett, UAE Emirates, 33.696908016460824
+132, Alexandr Riabushenko, Astana, 31.11881024467874
+3, Mikkel Bjerg, UAE Emirates, 30.541562219444074
+73, Simon Geschke, Cofidis, 28.73443531812611
+71, Guillaume Martin, Cofidis, 28.539049056641215
+4, Vegard Stake Laengen, UAE Emirates, 24.767514660485467
+64, Matteo Jorgenson, Movistar, 24.72793311447944
+12, Tiesj Benoot, Jumbo-Visma, 24.316812451661498
+75, Victor Lafay, Cofidis, 23.394560213031987
+1, Tadej Pogacar, UAE Emirates, 21.651204247445396
+74, Ion Izagirre, Cofidis, 19.554745350940333
+134, Fabio Felline, Astana, 19.535178839422098
+14, Sepp Kuss, Jumbo-Visma, 17.9211093325107
+13, Steven Kruijswijk, Jumbo-Visma, 17.015238089956046
+66, Nelson Oliveira, Movistar, 17.001579592422782
+6, Brandon McNulty, UAE Emirates, 16.720910631225973
+97, Thibaut Pinot, Groupama-FDJ, 15.34455832357217
+62, Imanol Erviti, Movistar, 15.314518367067528
+131, Alexey Lutsenko, Astana, 12.499991783495224
+61, Enric Mas, Movistar, 12.133773713799238
+65, Gregor M�hlberger, Movistar, 11.719140408055239
+76, Anthony Perez, Cofidis, 11.407722675061976
+138, Andrey Zeits, Astana, 10.862718363628119
+96, Valentin Madouas, Groupama-FDJ, 9.470217872096402
+11, Primoz Roglic, Jumbo-Visma, 9.381090645812394
+78, Maximilian Walscheid, Cofidis, 8.91892796188566
+93, Kevin Geniets, Groupama-FDJ, 7.507635004113725
+68, Carlos Verona, Movistar, 6.622318861073224
+8, Marc Hirschi, UAE Emirates, 6.421417551669962
+92, Antoine Duchesne, Groupama-FDJ, 6.134191505206514
+95, Olivier Le Gac, Groupama-FDJ, 6.006585713750758
+137, Simone Velasco, Astana, 5.851412434359579
+67, Albert Torres, Movistar, 5.305027844915756
+17, Nathan Van Hooydonck, Jumbo-Visma, 4.5358193316178514
+15, Christophe Laporte, Jumbo-Visma, 4.3921785722185
+7, Marc Soler, UAE Emirates, 4.165266103071975
+133, Joseph Lloyd Dombrowski, Astana, 3.992488006374243
+94, Stefan K�ng, Groupama-FDJ, 3.476122642567898
+72, Pierre-Luc P�richon, Cofidis, 3.462585407387331
+135, Dmitriy Gruzdev, Astana, 2.8718741919837503
+136, Gianni Moscon, Astana, 2.697031305888192
+5, Rafal Majka, UAE Emirates, 1.6996987159903916
+98, Michael Storer, Groupama-FDJ, 1.4986832288512622
+63, Gorka Izagirre, Movistar, 1.1653825696723685
+18, Jonas Vingegaard, Jumbo-Visma, 0.8232677678760334
+16, Wout Van Aert, Jumbo-Visma, 0.4323040687364254
+77, Benjamin Thomas, Cofidis, 0.12985235557714617
