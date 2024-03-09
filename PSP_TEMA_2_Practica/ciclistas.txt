@@ -1,0 +1,48 @@
+132, Alexandr Riabushenko, Astana
+131, Alexey Lutsenko, Astana
+61, Enric Mas, Movistar
+93, Kevin Geniets, Groupama-FDJ
+91, David Gaudu, Groupama-FDJ
+2, George Bennett, UAE Emirates
+63, Gorka Izagirre, Movistar
+12, Tiesj Benoot, Jumbo-Visma
+11, Primoz Roglic, Jumbo-Visma
+71, Guillaume Martin, Cofidis
+72, Pierre-Luc P�richon, Cofidis
+3, Mikkel Bjerg, UAE Emirates
+133, Joseph Lloyd Dombrowski, Astana
+62, Imanol Erviti, Movistar
+73, Simon Geschke, Cofidis
+1, Tadej Pogacar, UAE Emirates
+64, Matteo Jorgenson, Movistar
+92, Antoine Duchesne, Groupama-FDJ
+14, Sepp Kuss, Jumbo-Visma
+15, Christophe Laporte, Jumbo-Visma
+94, Stefan K�ng, Groupama-FDJ
+74, Ion Izagirre, Cofidis
+134, Fabio Felline, Astana
+4, Vegard Stake Laengen, UAE Emirates
+13, Steven Kruijswijk, Jumbo-Visma
+65, Gregor M�hlberger, Movistar
+135, Dmitriy Gruzdev, Astana
+75, Victor Lafay, Cofidis
+95, Olivier Le Gac, Groupama-FDJ
+76, Anthony Perez, Cofidis
+6, Brandon McNulty, UAE Emirates
+5, Rafal Majka, UAE Emirates
+16, Wout Van Aert, Jumbo-Visma
+96, Valentin Madouas, Groupama-FDJ
+7, Marc Soler, UAE Emirates
+97, Thibaut Pinot, Groupama-FDJ
+136, Gianni Moscon, Astana
+137, Simone Velasco, Astana
+67, Albert Torres, Movistar
+66, Nelson Oliveira, Movistar
+77, Benjamin Thomas, Cofidis
+17, Nathan Van Hooydonck, Jumbo-Visma
+8, Marc Hirschi, UAE Emirates
+68, Carlos Verona, Movistar
+78, Maximilian Walscheid, Cofidis
+98, Michael Storer, Groupama-FDJ
+138, Andrey Zeits, Astana
+18, Jonas Vingegaard, Jumbo-Visma
