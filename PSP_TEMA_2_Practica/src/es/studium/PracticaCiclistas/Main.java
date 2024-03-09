@@ -22,7 +22,7 @@ public class Main {
 				int dorsal = Integer.parseInt(datos[0]);
 				String nombre = datos[1];
 				String equipo = datos[2];
-				int stamina = 10 - (ciclistas.size() % 8); // Calculamos la stamina seg煤n la posici贸n dentro del equipo
+				int stamina = 10 - (ciclistas.size() % 8); // Calculamos la stamina seg鷑 la posici髇 dentro del equipo
 				ciclistas.add(new Ciclista(dorsal, nombre, equipo, 0, stamina));
 			}
 			br.close();
@@ -55,28 +55,28 @@ public class Main {
 	}
 
 	private static void mostrarRanking(ArrayList<Ciclista> ciclistas) {
-		// Ordenar la lista de ciclistas por la cantidad de kil贸metros recorridos (de mayor a menor)
+		// Ordenar la lista de ciclistas por la cantidad de kil髆etros recorridos (de mayor a menor)
 		Collections.sort(ciclistas, Comparator.comparingDouble(Ciclista::getKilometros).reversed());
 
 		// Mostrar el ranking final
-		System.out.println("\nClasificaci贸n final:");
+		System.out.println("\nClasificaci髇 final:");
 		int posicion = 1;
 		for (Ciclista c : ciclistas) {
-			System.out.println(posicion + ":    " + c.getDorsal() + "- " + c.getNombre() + " " + c.getEquipo() + " " + c.getKilometros() + " Kil贸metros");
+			System.out.println(posicion + ":    " + c.getDorsal() + "- " + c.getNombre() + " " + c.getEquipo() + " " + c.getKilometros() + " Kil髆etros");
 			posicion++;
 		}
 	}
 
 	private static void guardarNuevoOrden(ArrayList<Ciclista> ciclistas) {
-	    // Escribir el nuevo orden de los ciclistas en el archivo original
-	    try {
-	        FileWriter fw = new FileWriter("C:\\Users\\luigi\\eclipse-workspace\\PSP_TEMA_2_Practica\\src\\ciclistas.txt");
-	        for (Ciclista c : ciclistas) {
-	            fw.write(c.getDorsal() + ", " + c.getNombre() + ", " + c.getEquipo() + "\n");
-	        }
-	        fw.close();
-	    } catch (IOException e) {
-	        System.err.println("Error al escribir en el archivo: " + e.getMessage());
-	    }
+		// Escribir el nuevo orden de los ciclistas en el archivo original
+		try {
+			FileWriter fw = new FileWriter("C:\\Users\\luigi\\eclipse-workspace\\PSP_TEMA_2_Practica\\src\\ciclistas.txt");
+			for (Ciclista c : ciclistas) {
+				fw.write(c.getDorsal() + ", " + c.getNombre() + ", " + c.getEquipo() + "\n");
+			}
+			fw.close();
+		} catch (IOException e) {
+			System.err.println("Error al escribir en el archivo: " + e.getMessage());
+		}
 	}
 }
